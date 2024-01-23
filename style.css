@@ -1,0 +1,166 @@
+/* index.html design */
+
+body{
+    background-color: #A94438;
+}
+
+.recipes{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    font-size: 20px;
+}
+
+.box-1{
+    background-color: #E6BAA3;
+    margin: 20px;
+    border: 15px solid #D24545;
+    padding: 5px;
+    width: 300px;
+}
+
+.box-2{
+    background-color: #E6BAA3;
+    margin: 20px;
+    border: 15px solid #D24545;
+    padding: 5px;
+    width: 300px;
+}
+
+.odin{
+    text-align: center;
+}
+
+/* lasagna.html design */
+.name{ 
+    line-height: 5px;
+}
+
+/*lasagna and tuna design header text */
+.name-1{
+   font-family: 'Playfair Display', serif;
+   font-size: 70px;
+   text-align: left;
+}
+
+.name-2{
+    font-family: 'Fraunces', serif;
+    text-align: right;
+    font-size: 45px;
+    padding-right: 5px;
+}
+
+.lasagna-box{
+    background-color: #E6BAA3;
+    margin: 20px;
+    border: 15px solid #D24545;
+    padding: 5px;
+    width: 300px;
+}
+
+
+.lasagna-box-two{
+    background-color: #E6BAA3;
+    margin: 20px;
+    border: 15px solid #D24545;
+    padding: 5px;
+    width: 550px;
+    text-align: left;
+}
+
+
+
+/* steak.html design */
+
+.steak-box{
+    background-color: #E6BAA3;
+    margin: 20px;
+    border: 15px solid #D24545;
+    width: 400px;
+}
+
+.steak-kidney{
+    font-family: 'Fraunces', serif;
+    font-family: 'Lora', serif;
+    text-align: center;
+    font-size: 40px;
+}
+
+
+
+.steak-box-2{
+    background-color: #E6BAA3;
+    margin: 20px;
+    border: 15px solid #D24545;
+    padding: 5px;
+    width: 600px;
+    text-align: left;
+}
+
+/* tuna.html design */
+.tuna-box{
+    background-color: #E6BAA3;
+    margin: 20px;
+    border: 15px solid #D24545;
+    width: 400px;
+}
+
+.tuna-box-two{
+    background-color: #E6BAA3;
+    margin: 20px;
+    border: 15px solid #D24545;
+    padding: 5px;
+    width: 550px;
+    text-align: left;
+}
+
+
+/* All connected */
+.comments{
+    background-color: #D24545;
+    margin: 20px;
+    border: 15px solid #E6BAA3;
+    padding: 5px;
+    width: 550px;
+    text-align: left;
+}
+
+h3.adjust-text{
+    font-size: 30px;
+}
+   
+h4.comments-by{
+    line-height: 0px;
+    text-decoration:underline;
+    font-style: italic;
+}
+   
+.adjust-text, .adjust-comments{
+    line-height: 20px;
+}
+   
+.text{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 25px;
+}
+
+ul, li{
+    margin-top: 10px;
+}
+  
+h4.comments-by{
+    line-height: 0px;
+    text-decoration:underline;
+    font-style: italic;
+}
+   
+.adjust-text, .adjust-comments{
+       line-height: 20px;
+}
+  
+ul.adjust-comments{
+    color: #E4DEBE;
+}
+
+h3.adjust-text{
+    font-size: 30px;
+   }
